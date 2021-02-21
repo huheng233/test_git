@@ -11,3 +11,8 @@ push on dev1
 edit in bugfix
 make two change
 commit in dev1
+stage
+unstage
+111
+222
+
